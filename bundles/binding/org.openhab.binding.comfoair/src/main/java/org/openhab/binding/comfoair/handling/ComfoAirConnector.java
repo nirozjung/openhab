@@ -28,7 +28,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * With this connector the hole serial communication is handled.
+ * With this connector the whole serial communication is handled.
  * 
  * @author Holger Hees
  * @since 1.3.0
